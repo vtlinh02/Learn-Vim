@@ -188,3 +188,6 @@ Everyone has a different workflow, here is mine for example:
 - Instead of tabs, I use [tmux](https://github.com/tmux/tmux/wiki) windows. I usually use multiple tmux windows at once. For example, one tmux window for client-side codes and another for backend codes.
 
 My workflow may look different from yours based on your editing style and that's fine. Experiment around to discover your own flow, suiting your coding style.
+
+Finish reading chapter 02 - 18/06/2025 - 9.00am. 
+Need more practice in real project to see how to apply these knowledge

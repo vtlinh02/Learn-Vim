@@ -165,4 +165,4 @@ The `vim` command can take many different options, just like any other terminal 
 
 To learn more about `vim` command in the terminal, check out `man vim`. To learn more about the Vim editor, continue reading this guide along with the `:help` command.
 
-16/06/2025 - 23:42PM - Tony finished chapter 2
+16/06/2025 - 23:42PM - Tony finished chapter 1
